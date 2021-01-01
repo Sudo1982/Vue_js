@@ -1,6 +1,6 @@
 let app = new Vue({
   el: '#app',
   data: {
-    message: '皆さん、すどうです。こんにちは！'
+    message: '皆さん、須藤でござんす。こんにちは！'
   }
 });
